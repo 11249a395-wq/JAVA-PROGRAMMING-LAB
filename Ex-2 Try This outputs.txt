@@ -1,0 +1,6 @@
+
+Fee Type   |   Amount  
++------------+------------+
+Tuition    |   10000      
+Library    |   500        
+Laboratory |   1000   
