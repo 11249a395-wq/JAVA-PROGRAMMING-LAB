@@ -1,0 +1,15 @@
+Ex:6.1 PredefinedDemo.java
+Array error : index 5
+Math error : / by zero
+Null error : the object was never created
+finally : always runs
+Program continued normally.
+
+Ex:6.2 UserDefinedDemo.java
+Age 21 accepted
+Rejected : Age 15 is below 18
+
+Try this :BankDemo.java
+Withdrawal successful: Rs. 3000
+Remaining balance: Rs. 7000
+Daily limit of Rs. 5000 exceeded!
