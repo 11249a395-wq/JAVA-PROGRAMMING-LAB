@@ -1,0 +1,15 @@
+Program 4.1 — InheritDemo.java
+
+Name : Meena
+Salary : 75000.0
+Dept : CSE
+
+Program 4.2 — Hierarchical inheritance
+
+Kumar -> Teacher
+Selvam -> Driver
+Raj -> Staff
+
+
+trythis :RoleDemo.java
+Driver Salary: Rs. 18000
